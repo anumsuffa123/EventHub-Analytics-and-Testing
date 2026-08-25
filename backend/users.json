@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1787070896353",
+    "fullName": "Anum Suffa",
+    "email": "anumsuffa@gmail.com",
+    "password": "$2b$10$WfFLU9QqB3/fbRu/un4bxey1WloBX6BIKCbvlJRTGX7KyVtnPhn3W",
+    "createdAt": "2026-08-18T16:34:56.353Z"
+  },
+  {
+    "id": "1787243518785",
+    "fullName": "Anum Suffa",
+    "email": "anamsuffa@gmail.com",
+    "password": "$2b$10$iOuIv/9ognLAII6M3su8Zuuymsax9yj2jfB0SZp8ywWBHQoySIR6K",
+    "createdAt": "2026-08-20T16:31:58.785Z"
+  },
+  {
+    "id": "1787670627046",
+    "fullName": "Test User",
+    "email": "test1787670626932@example.com",
+    "password": "$2b$10$hN4eX7n7X73.STDPZTQWz.O4vNyG1Jje5NdOTm4R11OxX67NFtxjW",
+    "createdAt": "2026-08-25T15:10:27.046Z"
+  },
+  {
+    "id": "1787672081333",
+    "fullName": "Playwright Test User",
+    "email": "test1787672080961@example.com",
+    "password": "$2b$10$jJ1b5zH.5tzXpPOSlFk2WO7bwah73kuyr8adNnuEKPY8hCSmQSDP6",
+    "createdAt": "2026-08-25T15:34:41.333Z"
+  },
+  {
+    "id": "1787677037097",
+    "fullName": "Test User",
+    "email": "test1787677036975@example.com",
+    "password": "$2b$10$uN5tJurblc6NSbUMtG9Mmu4UKncPckuB8.Ccz1quLs5oNyF6sY0/e",
+    "createdAt": "2026-08-25T16:57:17.097Z"
+  },
+  {
+    "id": "1787677104122",
+    "fullName": "Playwright Test User",
+    "email": "test1787677103884@example.com",
+    "password": "$2b$10$kkB5zijRdvbVrluGqqVLIejxJO7dX3svyGyyN1SLkxzovrfOIUpVO",
+    "createdAt": "2026-08-25T16:58:24.122Z"
+  }
+]
